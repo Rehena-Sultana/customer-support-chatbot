@@ -5,7 +5,6 @@
 [![LangChain](https://img.shields.io/badge/Framework-LangChain-121212.svg)](https://www.langchain.com/)
 [![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-6A0DAD.svg)](https://www.trychroma.com/)
 [![Ollama](https://img.shields.io/badge/LLM-Ollama%20(100%25%20Local)-000000.svg)](https://ollama.ai/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An end-to-end, **100% local and privacy-focused** AI Customer Support Chatbot featuring Retrieval-Augmented Generation (RAG), intent classification, real-time sentiment analysis, automated human agent escalation, and a real-time admin analytics dashboard.
 
@@ -26,7 +25,6 @@ An end-to-end, **100% local and privacy-focused** AI Customer Support Chatbot fe
   - [3. Admin Analytics Dashboard](#3-admin-analytics-dashboard)
 - [Customizing Knowledge Base](#-customizing-knowledge-base)
 - [Troubleshooting & FAQ](#-troubleshooting--faq)
-- [License](#-license)
 
 ---
 
@@ -286,10 +284,3 @@ To update the chatbot's knowledge base with your own company FAQs:
    - Restart the app (`streamlit run app.py`). The vectorstore will automatically rebuild on startup.
 
 ---
-
-
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
