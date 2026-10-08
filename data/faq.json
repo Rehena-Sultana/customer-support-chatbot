@@ -1,0 +1,122 @@
+[
+  {
+    "id": "faq_001",
+    "question": "What is your return policy?",
+    "answer": "Eligible products can be returned within 30 days of delivery. The product should be unused and in its original condition.",
+    "category": "returns"
+  },
+  {
+    "id": "faq_002",
+    "question": "How long does a refund take?",
+    "answer": "Approved refunds are normally processed within 5 to 7 business days after the return is accepted.",
+    "category": "refunds"
+  },
+  {
+    "id": "faq_003",
+    "question": "How can I track my order?",
+    "answer": "Use the tracking link in your order confirmation email. If you cannot find it, contact support with your order number.",
+    "category": "orders"
+  },
+  {
+    "id": "faq_004",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept major credit and debit cards and supported digital payment methods shown at checkout.",
+    "category": "payments"
+  },
+  {
+    "id": "faq_005",
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be cancelled before they enter the shipping process. Contact support as soon as possible with your order number.",
+    "category": "orders"
+  },
+  {
+    "id": "faq_006",
+    "question": "Can I change my shipping address?",
+    "answer": "A shipping address can usually be changed before shipment. Contact support with your order number and the corrected address.",
+    "category": "shipping"
+  },
+  {
+    "id": "faq_007",
+    "question": "How much is shipping?",
+    "answer": "Shipping charges depend on the destination and order. The applicable charge is shown at checkout before payment.",
+    "category": "shipping"
+  },
+  {
+    "id": "faq_008",
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery usually takes 3 to 7 business days after shipment, depending on destination.",
+    "category": "shipping"
+  },
+  {
+    "id": "faq_009",
+    "question": "What should I do if my product arrives damaged?",
+    "answer": "Take photos of the damaged product and packaging and contact support as soon as possible. We can review the case for replacement or refund.",
+    "category": "returns"
+  },
+  {
+    "id": "faq_010",
+    "question": "Do you offer international shipping?",
+    "answer": "International shipping is available for selected destinations. Available destinations and shipping charges are shown at checkout.",
+    "category": "shipping"
+  },
+  {
+    "id": "faq_011",
+    "question": "How do I reset my password?",
+    "answer": "Select 'Forgot password' on the sign-in page and follow the password-reset instructions sent to your email.",
+    "category": "account"
+  },
+  {
+    "id": "faq_012",
+    "question": "How do I change my email address?",
+    "answer": "Sign in to your account, open account settings, and update your email address. You may be asked to verify the new email.",
+    "category": "account"
+  },
+  {
+    "id": "faq_013",
+    "question": "How do I create an account?",
+    "answer": "Select Sign Up, provide your email and required information, and follow the verification instructions.",
+    "category": "account"
+  },
+  {
+    "id": "faq_014",
+    "question": "Is my payment information secure?",
+    "answer": "Payment information is processed through secure payment infrastructure. Do not share passwords, one-time codes, or full card details with support.",
+    "category": "payments"
+  },
+  {
+    "id": "faq_015",
+    "question": "What should I do if my payment fails?",
+    "answer": "Check your payment details and available funds, then try again. If the problem continues, contact your payment provider or support.",
+    "category": "payments"
+  },
+  {
+    "id": "faq_016",
+    "question": "How can I contact support?",
+    "answer": "You can use this chatbot for common questions. For unresolved or complex issues, request a human agent and the conversation can be escalated.",
+    "category": "support"
+  },
+  {
+    "id": "faq_017",
+    "question": "What are your support hours?",
+    "answer": "Automated support is available 24/7. Human-agent availability depends on the support team's operating hours.",
+    "category": "support"
+  },
+  {
+    "id": "faq_018",
+    "question": "Can I exchange a product?",
+    "answer": "Eligible products may be exchanged within 30 days, subject to availability and the applicable return conditions.",
+    "category": "returns"
+  },
+  {
+    "id": "faq_019",
+    "question": "What warranty do your products have?",
+    "answer": "Warranty coverage varies by product. Check the product information or contact support with the product name and order number.",
+    "category": "warranty"
+  },
+  {
+    "id": "faq_020",
+    "question": "What should I do if my order is missing?",
+    "answer": "Check the tracking information first. If the package is marked delivered but you cannot find it, contact support so the delivery can be investigated.",
+    "category": "orders"
+  }
+]

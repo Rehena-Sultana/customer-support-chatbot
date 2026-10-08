@@ -1,0 +1,55 @@
+# Python Virtual Environments
+myenv/
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+!.env.example
+.streamlit/secrets.toml
+
+# Vector Store & Local Databases
+vectorstore/chroma/
+chroma/
+*.db
+*.sqlite
+*.sqlite3
+!logs/.gitkeep
+!vectorstore/.gitkeep
+
+# Logs & Diagnostics
+logs/*.log
+logs/*.db
+*.log
+
+# IDE & Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing & Linting caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
